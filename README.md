@@ -35,7 +35,7 @@ Trends Over Time:
 Total Content by Release Year: Track the growing volume of titles from 1920 to 2020, showcasing Netflix's evolution.
 
 Technology Stack
-Dashboard Tool: (e.g., Power BI, Tableau) [Specify the tool used]
+Dashboard Tool: Power BI
 
 Data Source: Netflix Titles Dataset
 
